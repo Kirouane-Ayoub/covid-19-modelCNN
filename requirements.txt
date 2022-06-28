@@ -2,3 +2,5 @@ tensorflow==2.x
 matplotlib
 numpy
 sklearn
+cv2
+pandas
