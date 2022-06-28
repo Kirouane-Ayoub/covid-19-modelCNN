@@ -10,6 +10,7 @@ This dataset is a database of COVID-19 cases with chest X-ray or CT images. It c
 Patientid (internal identifier, just for this dataset)
 
 offset (number of days since the start of symptoms or hospitalization for each image, this is very important to have when there are multiple images for the same patient to track progression while being imaged. If a report says "after a few days" let's assume 5 days.)
+
 sex (M, F, or blank)
 
 age (age of the patient in years)
