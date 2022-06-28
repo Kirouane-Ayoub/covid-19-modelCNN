@@ -26,8 +26,6 @@ date (date the image was acquired)
 
 location (hospital name, city, state, country) importance from right to left.
 
-filename
-
 doi (DOI of the research article
 
 url (URL of the paper or website where the image came from)
@@ -35,4 +33,3 @@ url (URL of the paper or website where the image came from)
 clinical notes (about the radiograph in particular, not just the patient)
 
 other notes (e.g. credit)
-
